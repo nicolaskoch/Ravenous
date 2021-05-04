@@ -1,3 +1,7 @@
+# Before trying Ravenous you must unlock access to the demo from CORS: https://cors-anywhere.herokuapp.com/corsdemo
+
+# You can view Ravenous here! obtainable-punishment.surge.sh
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
