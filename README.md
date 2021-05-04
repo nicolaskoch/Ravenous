@@ -1,6 +1,6 @@
-# Before trying Ravenous you must unlock access to the demo from CORS: https://cors-anywhere.herokuapp.com/corsdemo
+## Before trying Ravenous you must unlock access to the demo from CORS: https://cors-anywhere.herokuapp.com/corsdemo
 
-# You can view Ravenous here! obtainable-punishment.surge.sh
+# You can view Ravenous here! http://amazing-stone.surge.sh
 
 # Getting Started with Create React App
 
